@@ -34,6 +34,12 @@ input:focus, button :focus{
  
 
 }
+@media only screen and ( max-width:480px ){
+.feliz{
+	position:relative  ;
+	top:50%;
+}	
+}
 .btt{
   display: flex;
   flex-wrap: wrap;
